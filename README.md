@@ -1,7 +1,7 @@
 ## INSTRUCTIONS
 
-- git clone -b develop https://github.com/tejozymandias/BsInception.git
-- cd BsInception
+- git clone -b develop https://github.com/tejozymandias/mysqlhttp.git
+- cd mysqlhttp
 - npm install
 
 > In the database.js file, change the password and database name.
