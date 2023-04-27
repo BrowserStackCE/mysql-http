@@ -1,6 +1,6 @@
 ## INSTRUCTIONS
 
-- git clone -b develop https://github.com/tejozymandias/mysqlhttp.git
+- git clone develop https://github.com/tejozymandias/mysqlhttp.git
 - cd mysqlhttp
 - npm install
 
